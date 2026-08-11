@@ -19,6 +19,22 @@
       "endDate": "2026-08-13T06:00:00.000Z",
       "isNew": false,
       "endingSoon": false
+    },
+    {
+      "title": "Lorem ipsum",
+      "image": "https://www.serebii.net/tcgpocket/bonusweekmissions.jpg",
+      "startDate": "2026-08-09T06:00:00.000Z",
+      "endDate": "2026-08-16T06:00:00.000Z",
+      "isNew": false,
+      "endingSoon": false
+    },
+    {
+      "title": "Dolor sit amet",
+      "image": "https://www.serebii.net/tcgpocket/ruleroftheskiesemblemevent.jpg",
+      "startDate": "2026-08-03T06:00:00.000Z",
+      "endDate": "2026-08-13T06:00:00.000Z",
+      "isNew": false,
+      "endingSoon": false
     }
   ]
 }
