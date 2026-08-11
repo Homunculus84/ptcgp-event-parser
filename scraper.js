@@ -181,6 +181,7 @@ table.find("tbody tr").each((index, row) => {
 });
 
 const activeEvents = addEventFlags(getActiveEvents(events));
+activeEvents.sort((a, b) => a.endDate - b.endDate);
 const shopRefresh = getNextShopRefresh();
 
 const output = {
