@@ -182,6 +182,18 @@ table.find("tbody tr").each((index, row) => {
 
 const activeEvents = addEventFlags(getActiveEvents(events));
 activeEvents.sort((a, b) => a.endDate - b.endDate);
+
+while (activeEvents.length < 3) {
+    activeEvents.push({
+        title: "",
+        image: undefined,
+        startDate: undefined,
+        endDate: undefined,
+        isNew: false,
+        endingSoon: false
+    });
+}
+
 const shopRefresh = getNextShopRefresh();
 
 const output = {
