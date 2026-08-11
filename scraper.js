@@ -185,10 +185,10 @@ activeEvents.sort((a, b) => a.endDate - b.endDate);
 
 while (activeEvents.length < 3) {
     activeEvents.push({
-        title: "",
-        image: "",
-        startDate: "",
-        endDate: "",
+        title: "-",
+        image: "-",
+        startDate: "-",
+        endDate: "-",
         isNew: false,
         endingSoon: false
     });
