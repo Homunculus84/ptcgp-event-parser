@@ -19,6 +19,14 @@
       "endDate": "2026-08-13T06:00:00.000Z",
       "isNew": false,
       "endingSoon": false
+    },
+    {
+      "title": "Dummy",
+      "image": "https://www.serebii.net/tcgpocket/ruleroftheskiesemblemevent.jpg",
+      "startDate": "2026-08-03T06:00:00.000Z",
+      "endDate": "2026-08-13T06:00:00.000Z",
+      "isNew": false,
+      "endingSoon": true
     }
   ]
 }
