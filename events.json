@@ -1,8 +1,8 @@
 {
   "source": "https://www.serebii.net/tcgpocket/events.shtml",
-  "scrapedAt": "2026-08-12T12:54:52.390Z",
+  "scrapedAt": "2026-08-12T15:20:00.803Z",
   "nextShopRefresh": "2026-09-01T06:00:00.000Z",
-  "eventCount": 3,
+  "eventCount": 4,
   "events": [
     {
       "title": "Ruler of the Skies Emblem Event",
@@ -26,6 +26,14 @@
       "startDate": "2026-08-12T06:00:00.000Z",
       "endDate": "2026-08-22T06:00:00.000Z",
       "isNew": true,
+      "endingSoon": false
+    },
+    {
+      "title": "-",
+      "image": "-",
+      "startDate": "-",
+      "endDate": "-",
+      "isNew": false,
       "endingSoon": false
     }
   ]
