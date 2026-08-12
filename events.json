@@ -1,6 +1,6 @@
 {
   "source": "https://www.serebii.net/tcgpocket/events.shtml",
-  "scrapedAt": "2026-08-12T05:26:43.512Z",
+  "scrapedAt": "2026-08-12T06:22:03.583Z",
   "nextShopRefresh": "2026-09-01T06:00:00.000Z",
   "eventCount": 3,
   "events": [
@@ -10,7 +10,7 @@
       "startDate": "2026-08-03T06:00:00.000Z",
       "endDate": "2026-08-13T06:00:00.000Z",
       "isNew": false,
-      "endingSoon": false
+      "endingSoon": true
     },
     {
       "title": "Community Week Missions August 2026",
@@ -21,11 +21,11 @@
       "endingSoon": false
     },
     {
-      "title": "-",
-      "image": "-",
-      "startDate": "-",
-      "endDate": "-",
-      "isNew": false,
+      "title": "Mega Houndoom ex Drop Event",
+      "image": "https://www.serebii.net/tcgpocket/megahoundoomexdropevent.jpg",
+      "startDate": "2026-08-12T06:00:00.000Z",
+      "endDate": "2026-08-22T06:00:00.000Z",
+      "isNew": true,
       "endingSoon": false
     }
   ]
