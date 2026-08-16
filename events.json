@@ -1,23 +1,23 @@
 {
   "source": "https://www.serebii.net/tcgpocket/events.shtml",
-  "scrapedAt": "2026-08-16T04:29:15.407Z",
+  "scrapedAt": "2026-08-16T08:20:55.972Z",
   "nextShopRefresh": "2026-09-01T06:00:00.000Z",
   "eventCount": 4,
   "events": [
-    {
-      "title": "Community Week Missions August 2026",
-      "image": "https://www.serebii.net/tcgpocket/bonusweekmissions.jpg",
-      "startDate": "2026-08-09T06:00:00.000Z",
-      "endDate": "2026-08-16T06:00:00.000Z",
-      "isNew": false,
-      "endingSoon": true
-    },
     {
       "title": "Mega Houndoom ex Drop Event",
       "image": "https://www.serebii.net/tcgpocket/megahoundoomexdropevent.jpg",
       "startDate": "2026-08-12T06:00:00.000Z",
       "endDate": "2026-08-22T06:00:00.000Z",
       "isNew": false,
+      "endingSoon": false
+    },
+    {
+      "title": "Wonder Pick Event August 2026",
+      "image": "https://www.serebii.net/tcgpocket/wonderpickeventaugust2026.jpg",
+      "startDate": "2026-08-16T06:00:00.000Z",
+      "endDate": "2026-08-26T06:00:00.000Z",
+      "isNew": true,
       "endingSoon": false
     },
     {
