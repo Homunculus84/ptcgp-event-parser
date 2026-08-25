@@ -1,6 +1,6 @@
 {
   "source": "https://www.serebii.net/tcgpocket/events.shtml",
-  "scrapedAt": "2026-08-25T04:32:40.047Z",
+  "scrapedAt": "2026-08-25T08:34:17.458Z",
   "nextShopRefresh": "2026-09-01T06:00:00.000Z",
   "eventCount": 4,
   "events": [
@@ -10,7 +10,7 @@
       "startDate": "2026-08-16T06:00:00.000Z",
       "endDate": "2026-08-26T06:00:00.000Z",
       "isNew": false,
-      "endingSoon": false
+      "endingSoon": true
     },
     {
       "title": "-",
