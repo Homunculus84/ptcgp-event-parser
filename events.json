@@ -1,15 +1,15 @@
 {
   "source": "https://www.serebii.net/tcgpocket/events.shtml",
-  "scrapedAt": "2026-08-28T03:57:56.707Z",
+  "scrapedAt": "2026-08-28T15:56:56.191Z",
   "nextShopRefresh": "2026-09-01T06:00:00.000Z",
   "eventCount": 4,
   "events": [
     {
-      "title": "-",
-      "image": "-",
-      "startDate": "-",
-      "endDate": "-",
-      "isNew": false,
+      "title": "Team Rocket's Special Assignments",
+      "image": "https://www.serebii.net/tcgpocket/teamrocket'sspecialassignments.jpg",
+      "startDate": "2026-08-28T06:00:00.000Z",
+      "endDate": "2026-09-29T06:00:00.000Z",
+      "isNew": true,
       "endingSoon": false
     },
     {
