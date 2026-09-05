@@ -1,6 +1,6 @@
 {
   "source": "https://www.serebii.net/tcgpocket/events.shtml",
-  "scrapedAt": "2026-09-05T02:27:37.704Z",
+  "scrapedAt": "2026-09-05T07:58:53.188Z",
   "nextShopRefresh": "2026-10-01T06:00:00.000Z",
   "eventCount": 4,
   "events": [
@@ -13,18 +13,18 @@
       "endingSoon": false
     },
     {
+      "title": "Community Week Missions September 2026",
+      "image": "https://www.serebii.net/tcgpocket/bonusweekmissions.jpg",
+      "startDate": "2026-09-05T06:00:00.000Z",
+      "endDate": "2026-09-12T06:00:00.000Z",
+      "isNew": true,
+      "endingSoon": false
+    },
+    {
       "title": "Team Rocket's Special Assignments",
       "image": "https://www.serebii.net/tcgpocket/teamrocket'sspecialassignments.jpg",
       "startDate": "2026-08-28T06:00:00.000Z",
       "endDate": "2026-09-29T06:00:00.000Z",
-      "isNew": false,
-      "endingSoon": false
-    },
-    {
-      "title": "-",
-      "image": "-",
-      "startDate": "-",
-      "endDate": "-",
       "isNew": false,
       "endingSoon": false
     },
