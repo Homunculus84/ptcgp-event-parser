@@ -1,6 +1,6 @@
 {
   "source": "https://www.serebii.net/tcgpocket/events.shtml",
-  "scrapedAt": "2026-09-19T02:40:28.483Z",
+  "scrapedAt": "2026-09-19T08:26:52.420Z",
   "nextShopRefresh": "2026-10-01T06:00:00.000Z",
   "eventCount": 4,
   "events": [
@@ -10,6 +10,14 @@
       "startDate": "2026-09-10T06:00:00.000Z",
       "endDate": "2026-09-20T06:00:00.000Z",
       "isNew": false,
+      "endingSoon": true
+    },
+    {
+      "title": "Wonder Pick Event September 2026",
+      "image": "https://www.serebii.net/tcgpocket/wonderpickeventseptember2026.jpg",
+      "startDate": "2026-09-19T06:00:00.000Z",
+      "endDate": "2026-09-29T06:00:00.000Z",
+      "isNew": true,
       "endingSoon": false
     },
     {
@@ -17,14 +25,6 @@
       "image": "https://www.serebii.net/tcgpocket/teamrocket'sspecialassignments.jpg",
       "startDate": "2026-08-28T06:00:00.000Z",
       "endDate": "2026-09-29T06:00:00.000Z",
-      "isNew": false,
-      "endingSoon": false
-    },
-    {
-      "title": "-",
-      "image": "-",
-      "startDate": "-",
-      "endDate": "-",
       "isNew": false,
       "endingSoon": false
     },
